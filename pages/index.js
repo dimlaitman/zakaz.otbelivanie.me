@@ -12,7 +12,6 @@ export default function Home() {
         <Header />
         <MessengerLinks />
         <Divider />
-        <SocialLinks />
         <MainSiteLink />
         <Expected />
       </div>
